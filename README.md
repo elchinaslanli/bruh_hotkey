@@ -1,5 +1,5 @@
 
-![Logo](https://i.kym-cdn.com/entries/icons/original/000/016/540/Bruh_meme_banner.jpg)
+![Logo](https://i.kym-cdn.com/entries/icons/original/000/016/540/Bruh_meme_banner.jpg | width=250)
 
 
 # BRUH SOUND HOTKEY
