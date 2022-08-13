@@ -1,3 +1,8 @@
+' BRUH HOTKEY SETUP
+' USAGE CASE : FOR INSTANT BRUH MOMENTS
+' FOR INSTALLATION READ BRUH.MD
+' @bruh Elchin Aslanli (aslanlielchin@gmail.com)
+
 Set Shell = CreateObject("WScript.Shell")
 Dim scriptdir
 scriptdir = CreateObject("Scripting.FileSystemObject").GetParentFolderName(WScript.ScriptFullName)
