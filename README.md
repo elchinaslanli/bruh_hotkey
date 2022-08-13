@@ -2,11 +2,11 @@
 ![Logo](https://i.kym-cdn.com/entries/icons/original/000/016/540/Bruh_meme_banner.jpg)
 
 
-# BRUH HOTKEY
+# BRUH SOUND HOTKEY
 
 This project is built for instant bruh moments.
 
-By following the intallation steps you will have bruh button / hotkey / shortcut key.
+By following the intallation steps you will have bruh button / hotkey / shortcut key which will sound "bruh" when pressed.
 
 For now this repo only supports Windows.
 ## Installation
@@ -23,7 +23,7 @@ For now this repo only supports Windows.
 ## Usage of bruh hotkey
 
 
-The default hotkey / shortcut key is like below:
+The default hotkey / shortcut key to sound "bruh" is like below:
 
 
 **CTRL + ALT + B**
