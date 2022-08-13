@@ -42,3 +42,4 @@ To set custom hotkey, just configure the following file.
 
 Tested on Windows 10.
 
+
